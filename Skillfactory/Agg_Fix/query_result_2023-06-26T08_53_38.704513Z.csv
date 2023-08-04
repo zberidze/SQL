@@ -1,0 +1,89 @@
+Product ID,Product Type,Product,Price
+1,Organic Beans,Brazilian - Organic,18.00
+2,House blend Beans,Our Old Time Diner Blend,18.00
+3,Espresso Beans,Espresso Roast,14.80
+4,Espresso Beans,Primo Espresso Roast,20.50
+5,Gourmet Beans,Columbian Medium Roast,15.00
+6,Gourmet Beans,Ethiopia,21.00
+7,Premium Beans,Jamacian Coffee River,19.80
+8,Premium Beans,Civet Cat,45.00
+9,Organic Beans,Organic Decaf Blend,22.50
+10,Green beans,Guatemalan Sustainably Grown,10.00
+11,Herbal tea,Lemon Grass,9.00
+12,Herbal tea,Peppermint,9.00
+13,Black tea,English Breakfast,9.00
+14,Black tea,Earl Grey,9.00
+15,Green tea,Serenity Green Tea,9.30
+16,Chai tea,Traditional Blend Chai,9.00
+17,Chai tea,Morning Sunrise Chai,9.50
+18,Chai tea,Spicy Eye Opener Chai,11.00
+19,Drinking Chocolate,Dark chocolate,6.40
+20,Organic Chocolate,Sustainably Grown Organic,7.60
+21,Drinking Chocolate,Chili Mayan,13.30
+22,Drip coffee,Our Old Time Diner Blend Sm,2.00
+23,Drip coffee,Our Old Time Diner Blend Rg,2.50
+24,Drip coffee,Our Old Time Diner Blend Lg,3.00
+25,Organic brewed coffee,Brazilian Sm,2.20
+26,Organic brewed coffee,Brazilian Rg,3.00
+27,Organic brewed coffee,Brazilian Lg,3.50
+28,Gourmet brewed coffee,Columbian Medium Roast Sm,2.00
+29,Gourmet brewed coffee,Columbian Medium Roast Rg,2.50
+30,Gourmet brewed coffee,Columbian Medium Roast Lg,3.00
+31,Gourmet brewed coffee,Ethiopia Sm,2.20
+32,Gourmet brewed coffee,Ethiopia Rg,3.00
+33,Gourmet brewed coffee,Ethiopia Lg,3.50
+34,Premium brewed coffee,Jamaican Coffee River Sm,2.50
+35,Premium brewed coffee,Jamaican Coffee River Rg,3.10
+36,Premium brewed coffee,Jamaican Coffee River Lg,3.80
+37,Barista Espresso,Espresso shot,3.00
+38,Barista Espresso,Latte,3.80
+39,Barista Espresso,Latte Rg,4.30
+40,Barista Espresso,Cappuccino,3.80
+41,Barista Espresso,Cappuccino Lg,4.30
+42,Brewed herbal tea,Lemon Grass Rg,2.50
+43,Brewed herbal tea,Lemon Grass Lg,3.00
+44,Brewed herbal tea,Peppermint Rg,2.50
+45,Brewed herbal tea,Peppermint Lg,3.00
+46,Brewed Green tea,Serenity Green Tea Rg,2.50
+47,Brewed Green tea,Serenity Green Tea Lg,3.00
+48,Brewed Black tea,English Breakfast Rg,2.50
+49,Brewed Black tea,English Breakfast Lg,3.00
+50,Brewed Black tea,Earl Grey Rg,2.50
+51,Brewed Black tea,Earl Grey Lg,3.00
+52,Brewed Chai tea,Traditional Blend Chai Rg,2.50
+53,Brewed Chai tea,Traditional Blend Chai Lg,3.00
+54,Brewed Chai tea,Morning Sunrise Chai Rg,2.50
+55,Brewed Chai tea,Morning Sunrise Chai Lg,4.00
+56,Brewed Chai tea,Spicy Eye Opener Chai Rg,2.60
+57,Brewed Chai tea,Spicy Eye Opener Chai Lg,3.10
+58,Hot chocolate,Dark chocolate Rg,3.50
+59,Hot chocolate,Dark chocolate Lg,4.50
+60,Hot chocolate,Sustainably Grown Organic Rg,3.80
+61,Hot chocolate,Sustainably Grown Organic Lg,4.80
+62,Hot chocolate,Snow Day Hot Chocolate,3.00
+63,Regular syrup,Carmel syrup,0.80
+64,Regular syrup,Hazelnut syrup,0.80
+65,Sugar free syrup,Sugar Free Vanilla syrup,0.80
+66,Seasonal drink,Pumpkin Spice Latte,5.00
+67,Seasonal drink,Pumpkin Spice Latte Lg,6.00
+68,Seasonal drink,Happy Holidays hot chocolate,3.80
+75,Pastry,Croissant,3.30
+70,Scone,Cranberry Scone,3.30
+71,Pastry,Chocolate Croissant,3.80
+72,Scone,Ginger Scone,3.30
+73,Pastry,Almond Croissant,3.80
+74,Biscotti,Ginger Biscotti,3.50
+69,Biscotti,Hazelnut Biscotti,3.50
+76,Biscotti,Chocolate Chip Biscotti,3.50
+77,Scone,Oatmeal Scone,3.00
+78,Scone,Scottish Cream Scone ,4.50
+79,Scone,Jumbo Savory Scone,3.80
+80,Clothing,I Need My Bean! Toque,23.00
+81,Clothing,I Need My Bean! T-shirt,28.00
+82,Housewares,I Need My Bean! Diner mug,12.00
+83,Housewares,I Need My Bean! Latte cup,14.00
+84,Regular syrup,Chocolate syrup,0.80
+85,Specialty coffee,Rio Nights,6.00
+87,Barista Espresso,Ouro Brasileiro shot,3.00
+88,Barista Espresso,Ouro Brasileiro shot promo,2.10
+89,Scone,Ginger Scone promo,2.70
